@@ -7,3 +7,4 @@ Breve explicación del sistema:
 
 Actores del sistema y funcionalidades:
 Leonardo Antonio Herrada Rondón
+Lenyn Mitchell Rodriguez Benites
