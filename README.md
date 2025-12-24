@@ -7,3 +7,4 @@ Breve explicación del sistema: El sistema detecta las citas y las manda a los d
 
 Actores del sistema y funcionalidades:
 Leonardo Antonio Herrada Rondón
+Lenyn Mitchell Rodriguez Benites
